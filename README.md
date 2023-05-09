@@ -1,7 +1,8 @@
 # Project on Recommendations on MovieLens Dataset & IMDB
 
-Dataset : MovieLens(20M) https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
-Dataset : IMDB top 1000 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-
+## Dataset 
+- Dataset : MovieLens(20M) https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
+- Dataset : IMDB top 1000 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-
 
 Merged both to create our own Dataset for recommendations
 - UserID
